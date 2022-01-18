@@ -1,5 +1,8 @@
 ### Hi there 👋
+## About me
+Hi, I am currently an MSc Student studying Computational Statistics and Machine Learning at University College London. I graduated from Imperial College London in 2018 with a Master’s degree in Civil and Environmental Engineering and in 2020, from Birkbeck University with a PGCert in Applied Statistics. 
 
+From 2018-2021 I led cutting-edge research, focused on utilising big data and intelligent transport systems whilst applying my expertise at Metis Consultants in the Asset Management Team, tackling engineering problems through data-driven means helping clients better understand their assets and make more informed decisions.
 <!--
 **panukorn17/panukorn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
