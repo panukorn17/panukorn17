@@ -3,6 +3,7 @@ Hi, I am currently an MSc Student studying Computational Statistics and Machine 
 
 ## Links
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-taleongpong-4361b614a/)
+[![GoogleScholar](https://img.shields.io/badge/GoogleScholar-00a6ed?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=c9mudFcAAAAJ&hl=en)
 
 <!--
 **panukorn17/panukorn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
