@@ -2,15 +2,10 @@
 Hi, I am currently an MSc Student studying Computational Statistics and Machine Learning at University College London. I graduated from Imperial College London in 2018 with a Master’s degree in Civil and Environmental Engineering and in 2020, from Birkbeck University with a PGCert in Applied Statistics.
 
 ## Links
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/teddy-taleongpong-4361b614a/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/teddy-taleongpong-4361b614a/)
 
 <!--
 **panukorn17/panukorn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
