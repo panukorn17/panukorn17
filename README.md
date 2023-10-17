@@ -18,6 +18,10 @@ My module selections are:
 - :man_technologist: COMP0081 - Applied Machine Learning
 - :chart_with_upwards_trend: COMP0078 - Supervised Learning
 - :bar_chart: STAT0028 - Statistical Models and Data Analysis
+
+## Publications
+**Taleongpong, P.**, Hu, S., Jiang, Z., Wu, C., Popo-Ola, S. & Han, K., 2020. Machine learning techniques to predict reactionary delays and other associated key performance indicators on British railway network. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations, 26(3), pp. 311-329. Available at: https://doi.org/10.1080/15472450.2020.1858822
+Heglund, J.S.W., **Taleongpong, P.**, Hu, S. & Tran, H.T., 2020. Railway Delay Prediction with Spatial-Temporal Graph Convolutional Networks. In: 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). Rhodes, Greece, pp. 1-6. Available at: https://doi.org/10.1109/ITSC45102.2020.9294742
 <!--
 **panukorn17/panukorn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
