@@ -1,5 +1,5 @@
 ## About me
-Hi, my name is Teddy and I hold an MSc in Computational Statistics and Machine Learning from University College London, an MEng in Civil Engineering from Imperial College London and a PGCert in Applied Statistics from Birkbeck University. I also have 3+ years of experience as an Engineer/Data Scientist at Metis Consultants, where I focused on developing data-driven solutions to solve engineering problems.
+Hi, my name is Teddy. I am a Data Scientist at Kanjo Health and a Research Assistant at UCL. I hold an MSc in Computational Statistics and Machine Learning from University College London, an MEng in Civil Engineering from Imperial College London and a PGCert in Applied Statistics from Birkbeck University. I also have 3+ years of experience as an Engineer/Data Scientist at Metis Consultants, where I focused on developing data-driven solutions to solve engineering problems.
 
 - 🔭 I’m currently working on optimising my research from Imperial and UCL
 - 🌱 I’m currently learning TypeScript in React
