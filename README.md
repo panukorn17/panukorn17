@@ -18,6 +18,7 @@ My module selections are:
 - :bar_chart: STAT0028 - Statistical Models and Data Analysis
 
 ## Publications
+-	**Taleongpong, P.**, Paige, B., 2024. Improving Fragment-Based Deep Molecular Generative Models. Machine Learning for Life and Material Science: From Theory to Industry Applications (ML4LMS) Workshop, International Conference on Machine Learning (ICML). Available at: https://openreview.net/pdf?id=y8GIpqoZRj
 - **Taleongpong, P.**, Hu, S., Jiang, Z., Wu, C., Popo-Ola, S. & Han, K., 2020. Machine learning techniques to predict reactionary delays and other associated key performance indicators on British railway network. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations, 26(3), pp. 311-329. Available at: https://doi.org/10.1080/15472450.2020.1858822
 - Heglund, J.S.W., **Taleongpong, P.**, Hu, S. & Tran, H.T., 2020. Railway Delay Prediction with Spatial-Temporal Graph Convolutional Networks. In: 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). Rhodes, Greece, pp. 1-6. Available at: https://doi.org/10.1109/ITSC45102.2020.9294742
 <!--
