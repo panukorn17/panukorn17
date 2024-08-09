@@ -1,9 +1,7 @@
 ## About me
 Hi, my name is Teddy. I am a Data Scientist at Kanjo Health and a Research Assistant at UCL. I hold an MSc in Computational Statistics and Machine Learning from University College London, an MEng in Civil Engineering from Imperial College London and a PGCert in Applied Statistics from Birkbeck University. I also have 3+ years of experience as an Engineer/Data Scientist at Metis Consultants, where I focused on developing data-driven solutions to solve engineering problems.
 
-- 🔭 I’m currently working on optimising my research from Imperial and UCL
-- 🌱 I’m currently learning TypeScript in React
-- 📫 How to reach me: p.taleo17@gmail.com
+📫 How to reach me: p.taleo17@gmail.com
 
 ## Links
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-taleongpong-4361b614a/)
