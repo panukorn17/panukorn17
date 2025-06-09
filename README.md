@@ -1,5 +1,5 @@
 ## About me
-Hi, my name is Teddy. I am an AI and ML Technologist at Digital Catapult. I hold an MSc in Computational Statistics and Machine Learning from University College London, an MEng in Civil Engineering from Imperial College London and a PGCert in Applied Statistics from Birkbeck University. I also have 3+ years of experience as an Engineer/Data Scientist at Metis Consultants, where I focused on developing data-driven solutions to solve engineering problems.
+Hi, my name is Teddy. I am an AI and ML Technologist at Digital Catapult. I hold an MSc in Computational Statistics and Machine Learning from University College London, an MEng in Civil Engineering from Imperial College London and a PGCert in Applied Statistics from Birkbeck University.
 
 📫 How to reach me: LinkedIn
 
